@@ -1,0 +1,7 @@
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\My_Console_Project\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe.config
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\My_Console_Project\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\My_Console_Project\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.pdb
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\My_Console_Project\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.AssemblyReference.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\My_Console_Project\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.CoreCompileInputs.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\My_Console_Project\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\My_Console_Project\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.pdb

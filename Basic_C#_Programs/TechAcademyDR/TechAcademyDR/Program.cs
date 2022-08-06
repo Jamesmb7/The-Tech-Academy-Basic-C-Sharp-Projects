@@ -11,9 +11,7 @@ namespace TechAcademyDR
             Console.WriteLine("Student Daily Report"); // Will Write a second line of "Student Daily Report"
             Console.WriteLine("What is your name?"); //This will appear on the Third line and ask "What is your name?"
             string yourName = Console.ReadLine(); //This will take the information from the above written question and input it as a string variable yourName.
-
             Console.WriteLine("Your Name is " + yourName + Environment.NewLine); //This takes the answer for "yourName" and attaches it to "Your name is" to answer the question in the console. It also creats a line break with Environment.NewLine.
-
             Console.WriteLine("What course are you on?"); //This asks the question "What course are you on?"
             string yourCourse = Console.ReadLine(); //This will take the string information and apply it to yourCourse variable.
             Console.WriteLine("The course you are on is " + yourCourse + Environment.NewLine); //This takes the variable yourCourse and attaches it to "The course you are on is" to answer the prior question. 

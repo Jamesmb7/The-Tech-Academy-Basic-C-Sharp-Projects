@@ -1,0 +1,7 @@
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BasicMathComparisonOperations\BasicMathComparisonOperations\bin\Debug\BasicMathComparisonOperations.exe.config
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BasicMathComparisonOperations\BasicMathComparisonOperations\bin\Debug\BasicMathComparisonOperations.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BasicMathComparisonOperations\BasicMathComparisonOperations\bin\Debug\BasicMathComparisonOperations.pdb
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BasicMathComparisonOperations\BasicMathComparisonOperations\obj\Debug\BasicMathComparisonOperations.csproj.AssemblyReference.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BasicMathComparisonOperations\BasicMathComparisonOperations\obj\Debug\BasicMathComparisonOperations.csproj.CoreCompileInputs.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BasicMathComparisonOperations\BasicMathComparisonOperations\obj\Debug\BasicMathComparisonOperations.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BasicMathComparisonOperations\BasicMathComparisonOperations\obj\Debug\BasicMathComparisonOperations.pdb

@@ -37,6 +37,24 @@ namespace MathAndComparisonOperatorSubAssignment
             Console.WriteLine(hr1 * hwpw1 * weeks > hr2 * hwpw2 * weeks); //Takes all variables for person 1 and multiplies them together, then takes all variables for person 2 and multiplies them together, then compares the two to see
             //if person 1 makes more than person 2. It will display true if person 1 > person 2. It will display false if person 1 < person 2. 
             Console.ReadLine(); // Prevents the program from auto closing, allowing you time to read and look at all of the printed data. 
+
+
+
+            //After reviewing this after submission I realized I could have also used this code below to record the actual salary of each person into a variable,
+            //and then make the comparison statement smaller than re-multiplying everything again to get the true/false answer. I didn't change the code above because I felt it answered what you were looking for 
+            //and the below code was just an adjustment I noticed after submission.
+
+            //Console.WriteLine(Environment.NewLine);
+            //int p1total = hr1 * hwpw1 * weeks;
+            //Console.WriteLine(p1total);
+            //Console.WriteLine(Environment.NewLine);
+            //int p2total = hr2 * hwpw2 * weeks;
+            //Console.WriteLine(p2total);
+            //Console.WriteLine(p1total > p2total);
+            //Console.ReadLine();
+
+
+
         }
     }
 }

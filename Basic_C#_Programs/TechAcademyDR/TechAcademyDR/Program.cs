@@ -16,11 +16,11 @@ namespace TechAcademyDR
             string yourCourse = Console.ReadLine(); //This will take the string information and apply it to yourCourse variable.
             Console.WriteLine("The course you are on is " + yourCourse + Environment.NewLine); //This takes the variable yourCourse and attaches it to "The course you are on is" to answer the prior question. 
             Console.WriteLine("What page number?");//This asks a question
-            string yourPage = Console.ReadLine(); //This takes the answer to the question
-            Console.WriteLine("You are on page "+ yourPage + Environment.NewLine); //This puts your answer to the question with "You are on page" to answer the question. 
+            int yourPage = Convert.ToInt32(Console.ReadLine()); //This takes the answer to the question
+            Console.WriteLine(yourPage); //This puts your answer to the question with "You are on page" to answer the question. 
+            Console.WriteLine(Environment.NewLine);
             Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false.\"");//This asks a question, didn't know if this was supposed to be bool or not after, didn't know how to console.readline print it if so.
-            string needHelp = Console.ReadLine();//takes the answer of true or false.
-            Convert.ToBoolean(needHelp);//takes your answer and converts it to boolean, true or false.
+            bool needHelp = Convert.ToBoolean(Console.ReadLine());//takes the answer of true or false.
             Console.WriteLine(Environment.NewLine);
             Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics.");//Asks a question.
             string positiveExperiences = Console.ReadLine();//Allows you to answer the question.
@@ -29,8 +29,8 @@ namespace TechAcademyDR
             string newFeedback = Console.ReadLine();//Allows you to answer the question.
             Console.WriteLine("Your feedback was: " + newFeedback + Environment.NewLine);//attaches your answer to the question above. 
             Console.WriteLine("How many Hours did you study today?");//Asks a question
-            string hoursStudied = Console.ReadLine();//Allows you to answer the question
-            Console.WriteLine("You studied " + hoursStudied + " hours today." + Environment.NewLine);//Attaches your answer to the question above. 
+            int hoursStudied = Convert.ToInt32(Console.ReadLine());//Allows you to answer the question
+            Console.WriteLine(hoursStudied + Environment.NewLine);//Attaches your answer to the question above. 
             Console.WriteLine("Thank you for your answers. An instructor will respond to this shortly. Have a great day!");//Leaves you with a final line wishing you a good day!
             Console.ReadLine();//Prevents auto closing so you have time to read the final message. 
         }

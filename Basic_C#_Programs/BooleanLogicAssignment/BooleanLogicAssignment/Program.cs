@@ -26,6 +26,8 @@ namespace BooleanLogicAssignment
             Console.WriteLine(qualified1 && qualified2 && qualified3); //Takes the boolean variable rules with the && (and) operator to answer the question of "Qualified?" ensuring the person meets all requirements. 
             Console.ReadLine(); //Prevents the program from closing on it's own allowing time for you to view the data.
 
+            //Console.WriteLine(age > 15 && dui == false && ticket <= 3); - This fixes having to create 3 boolean variables to console.writeline this project.
+
         }
     }
 }

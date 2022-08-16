@@ -1,0 +1,7 @@
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LoopsVideoAssignment\LoopsVideoAssignment\bin\Debug\LoopsVideoAssignment.exe.config
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LoopsVideoAssignment\LoopsVideoAssignment\bin\Debug\LoopsVideoAssignment.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LoopsVideoAssignment\LoopsVideoAssignment\bin\Debug\LoopsVideoAssignment.pdb
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LoopsVideoAssignment\LoopsVideoAssignment\obj\Debug\LoopsVideoAssignment.csproj.AssemblyReference.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LoopsVideoAssignment\LoopsVideoAssignment\obj\Debug\LoopsVideoAssignment.csproj.CoreCompileInputs.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LoopsVideoAssignment\LoopsVideoAssignment\obj\Debug\LoopsVideoAssignment.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LoopsVideoAssignment\LoopsVideoAssignment\obj\Debug\LoopsVideoAssignment.pdb

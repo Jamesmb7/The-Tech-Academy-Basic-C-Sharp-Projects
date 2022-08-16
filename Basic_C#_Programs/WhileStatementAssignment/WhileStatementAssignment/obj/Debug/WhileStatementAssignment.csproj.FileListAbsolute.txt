@@ -1,0 +1,7 @@
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileStatementAssignment\WhileStatementAssignment\bin\Debug\WhileStatementAssignment.exe.config
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileStatementAssignment\WhileStatementAssignment\bin\Debug\WhileStatementAssignment.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileStatementAssignment\WhileStatementAssignment\bin\Debug\WhileStatementAssignment.pdb
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileStatementAssignment\WhileStatementAssignment\obj\Debug\WhileStatementAssignment.csproj.AssemblyReference.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileStatementAssignment\WhileStatementAssignment\obj\Debug\WhileStatementAssignment.csproj.CoreCompileInputs.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileStatementAssignment\WhileStatementAssignment\obj\Debug\WhileStatementAssignment.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\WhileStatementAssignment\WhileStatementAssignment\obj\Debug\WhileStatementAssignment.pdb

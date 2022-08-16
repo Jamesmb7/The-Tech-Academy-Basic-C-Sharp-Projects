@@ -1,0 +1,7 @@
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BranchingVideoExamples\BranchingVideoExamples\bin\Debug\BranchingVideoExamples.exe.config
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BranchingVideoExamples\BranchingVideoExamples\bin\Debug\BranchingVideoExamples.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BranchingVideoExamples\BranchingVideoExamples\bin\Debug\BranchingVideoExamples.pdb
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BranchingVideoExamples\BranchingVideoExamples\obj\Debug\BranchingVideoExamples.csproj.AssemblyReference.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BranchingVideoExamples\BranchingVideoExamples\obj\Debug\BranchingVideoExamples.csproj.CoreCompileInputs.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BranchingVideoExamples\BranchingVideoExamples\obj\Debug\BranchingVideoExamples.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BranchingVideoExamples\BranchingVideoExamples\obj\Debug\BranchingVideoExamples.pdb

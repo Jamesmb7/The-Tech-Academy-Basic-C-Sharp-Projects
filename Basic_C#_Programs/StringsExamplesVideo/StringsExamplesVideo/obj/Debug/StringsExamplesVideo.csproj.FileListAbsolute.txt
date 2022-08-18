@@ -1,0 +1,7 @@
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsExamplesVideo\StringsExamplesVideo\bin\Debug\StringsExamplesVideo.exe.config
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsExamplesVideo\StringsExamplesVideo\bin\Debug\StringsExamplesVideo.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsExamplesVideo\StringsExamplesVideo\bin\Debug\StringsExamplesVideo.pdb
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsExamplesVideo\StringsExamplesVideo\obj\Debug\StringsExamplesVideo.csproj.AssemblyReference.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsExamplesVideo\StringsExamplesVideo\obj\Debug\StringsExamplesVideo.csproj.CoreCompileInputs.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsExamplesVideo\StringsExamplesVideo\obj\Debug\StringsExamplesVideo.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsExamplesVideo\StringsExamplesVideo\obj\Debug\StringsExamplesVideo.pdb

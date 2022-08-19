@@ -38,90 +38,91 @@ class Program
         //List<string> namesList = new List<string> { "James", "John", "Amy", "Jackson", "Brenda", "Kyle", "Chuck" }; //Creates a list with all unique names
         //Console.WriteLine("Please search for a name!"); //Asks the user to input a name they would like to search for
 
-        //bool helpme = false;     
+        //bool helpme = false;
         //int exitloop = 0;
 
         //while (!helpme)
         //{
         //    string clientSearch = Console.ReadLine(); //Stores the user input into a variable called clientSearch
-        //    int indexv = 0;
+        //    int indexv1 = 0;
         //    foreach (string name in namesList) //name = value at each index in list namesList
         //    {
-        //        if (clientSearch == name) 
+        //        if (clientSearch == name) //States that if the clientSearch user input is the same as the value (name) in the nameList string do the following curly bracket code
         //        {
-        //            Console.WriteLine("The value of your name is at " +indexv + ".");
-        //            exitloop++;
-        //            break;
+        //            Console.WriteLine("The value of your name is at " + indexv1 + "."); //Will write a statement with the value of indexv1's value.
+        //            exitloop++; // adds 1 to exitloop variable.
+        //            break; //breaks the program preventing it from continuing to loop. 
         //        }
-        //        indexv++;
+        //        indexv1++; //adds 1 to the value of indexv1.
         //    }
-        //    if (exitloop == 0)
+        //    if (exitloop == 0) //This happens if the above if statement is not true, this states taht if exitloop is equal to the value of 0 do the following code
         //    {
-        //        Console.WriteLine("This name is not on the list.");
-        //        Console.WriteLine("Please search for a name!");
-        //    }         
+        //        Console.WriteLine("This name is not on the list."); //writes a statement
+        //        Console.WriteLine("Please search for a name!"); //re-asks the question for the loop console.readline to get user input again above. 
+        //    }
         //}
         //Console.ReadLine();
 
 
-        //List<string> namesList2 = new List<string> { "James", "John", "Amy", "Jackson", "Brenda", "Kyle", "Chuck", "James" }; //Creates a list with all unique names
-        //Console.WriteLine("Please search for a name!"); //Asks the user to input a name they would like to search for
+        List<string> namesList2 = new List<string> { "James", "John", "Amy", "Jackson", "Brenda", "Kyle", "Chuck", "James" }; //Creates a list with all unique names
+        Console.WriteLine("Please search for a name!"); //Asks the user to input a name they would like to search for
 
-        //bool helpme2 = false;
-        //int exitloop2 = 0;
+        bool helpme2 = false; //sets a bool value to false, so later in the code (if needed) we can find a stopping point and attach a bool value of true to stop the loop. 
+        int exitloop2 = 0; //sets an integer exitloop2 value at 0.
 
-        //while (!helpme2)
-        //{
-        //    string clientSearch = Console.ReadLine(); //Stores the user input into a variable called clientSearch
-        //    int indexv = 0;
-        //    foreach (string name in namesList2) //name = value at each index in list namesList
-        //    {
-        //        if (clientSearch == name)
-        //        {
-        //            Console.WriteLine("The value of your name is at " + indexv + ".");
-        //            exitloop2++;                 
-        //        }
-        //        indexv++;
-        //    }
-        //    if (exitloop2 != 0)
-        //    {
-        //        exitloop2--;
-        //    }
-        //    if (exitloop2 == 0)
-        //    {
-        //        Console.WriteLine("This name is not on the list.");               
-        //    }           
-        //}
-        //Console.ReadLine();
-
-
-        List<string> namesList3 = new List<string> { "Mason", "Jackson", "Jackson", "Brent", "Bradley", "Neil" };
-        List<string> compareList = new List<string> { };
-
-        bool startLoop = false;
-        int indexv = 0;
-
-
-        while (!startLoop)
+        while (!helpme2) //this says while the variable helpme2 is not false (! = opposite of current value) do the following code
         {
-            foreach (string name in namesList3)
-            {              
-                if (!compareList.Contains(name) && namesList3.Contains(name))
-                {
-                    compareList.Add(name);
-                    Console.WriteLine(indexv + " is not a duplicate.");
-                }
-                else if (compareList.Contains(name) && namesList3.Contains(name))
-                {
-                    Console.WriteLine(indexv + " is a duplicate!");
-                }
-                indexv++;
-            }
-            if (compareList.Count <= namesList3.Count)
+            string clientSearch = Console.ReadLine(); //Stores the user input into a variable called clientSearch
+            int indexv2 = 0; //sets indexv2 value of 0. 
+            foreach (string name in namesList2) //name = value at each index in list namesList
             {
-                startLoop = true;
+                if (clientSearch == name) //if loop. States that if clientSearch(user input) is the same value as one of the names in the list, do the following code.
+                {
+                    Console.WriteLine("The value of your name is at " + indexv2 + "."); //prints a statement and shows the value of indexv2 currently.
+                    exitloop2++; //adds 1 to exitloop2 value
+                }
+                indexv2++; //adds 1 to indexv2 value
             }
-            Console.ReadLine();
+            if (exitloop2 != 0) //this happens if the above code does not = true, this states that if exitloop2 is not equal to 0 do the following
+            {
+                exitloop2--; //This subtracts 1 value from the exitloop2 value.
+            }
+            if (exitloop2 == 0) // this happens if the above code is not = true, this states that if exitloop 2 is equal to 0, do the following
+            {
+                Console.WriteLine("This name is not on the list."); //this prints a statement.
+                //break; do I need a break here? **** Instructor Question *****
+            }
+        }
+        Console.ReadLine();
+
+
+        List<string> namesList3 = new List<string> { "Mason", "Jackson", "Jackson", "Brent", "Bradley", "Neil" }; //creates a list
+        List<string> compareList = new List<string> { }; //creates a second, empty list
+
+        bool startLoop = false; //bool value to eventually end a loop (if needed later).
+        int indexv = 0; //sets a value for indexv to 0.
+
+
+        while (!startLoop) //starts a while loop as long as startloop is not equal to true.
+        {
+            foreach (string name in namesList3) //foreach loop, string name = the value of text in the list above (namesList3) Ex. Mason, Jackson, Brent, etc.
+            {              
+                if (!compareList.Contains(name) && namesList3.Contains(name)) //If statement showing that if compareList(the empty one) does not contain the value of (name) and namesList3 does contain the value of name, do the following code.
+                {
+                    compareList.Add(name); //this will add that missing name from namesList3 to compareList.
+                    Console.WriteLine(indexv + " is not a duplicate."); //this will print a statement saying the value at indexv is not a duplicate (that value represents the (name) value as well, just with a number instead of the string name.
+                }
+                else if (compareList.Contains(name) && namesList3.Contains(name)) //else if statement, if the above is not true, this statement code kicks in. This states if both lists have the same name do the following code
+                {
+                    Console.WriteLine(indexv + " is a duplicate!"); //This will take the indexv value and print that it is a duplicate. This is basically comparing the lists and pointing out the location of duplicates. 
+                }
+                indexv++; //this adds 1 to the indexv value. 
+            }
+            if (compareList.Count <= namesList3.Count) //This if statement happens after the prior "if, else if" statements fail, taking the new list and comparing it's size to the original list
+            {
+                startLoop = true; //this allows you to stop the loop once the new list(compareList) has the same amount of indices as the old list (namesList3)
+            }
+            Console.ReadLine(); //prevents the program from instant closing, allowing you to review all of the data. 
         }
     }   
 }

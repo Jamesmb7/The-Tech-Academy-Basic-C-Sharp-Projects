@@ -60,12 +60,16 @@ class Program
                 Console.WriteLine("This name is not on the list."); //writes a statement
                 Console.WriteLine("Please search for a name!"); //re-asks the question for the loop console.readline to get user input again above. 
             }
+            else
+            {
+                helpme = true;
+            }
         }
         Console.ReadLine();
 
 
         List<string> namesList2 = new List<string> { "James", "John", "Amy", "Jackson", "Brenda", "Kyle", "Chuck", "James" }; //Creates a list with all unique names
-        Console.WriteLine("Please search for a name!"); //Asks the user to input a name they would like to search for
+        Console.WriteLine("Please search for a cool name!"); //Asks the user to input a name they would like to search for
 
         string userinputs = Console.ReadLine();
 

@@ -10,7 +10,7 @@ class Program
 
         //Console.WriteLine("Hello, Please type your name. Thanks!"); //Asks the user to input their name.
 
-        //string clientName = Convert.ToString(Console.ReadLine()); //Assigns that user input to a variable called clientName
+        //string clientName = (Console.ReadLine()); //Assigns that user input to a variable called clientName
 
 
         //for (int i = 0; i < names.Length; i++) //While the index (i) is < the length of the string array, i++, or add 1 to the index.
@@ -90,7 +90,7 @@ class Program
             if (exitloop2 == 0) // this happens if the above code is not = true, this states that if exitloop 2 is equal to 0, do the following
             {
                 Console.WriteLine("This name is not on the list."); //this prints a statement.
-                //break; do I need a break here? **** Instructor Question *****
+                //break; do I need some form of a break here? **** Instructor Question *****
             }
         }
         Console.ReadLine();

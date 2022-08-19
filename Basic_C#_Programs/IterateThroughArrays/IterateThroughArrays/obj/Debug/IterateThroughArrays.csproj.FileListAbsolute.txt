@@ -1,0 +1,7 @@
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterateThroughArrays\IterateThroughArrays\bin\Debug\IterateThroughArrays.exe.config
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterateThroughArrays\IterateThroughArrays\bin\Debug\IterateThroughArrays.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterateThroughArrays\IterateThroughArrays\bin\Debug\IterateThroughArrays.pdb
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterateThroughArrays\IterateThroughArrays\obj\Debug\IterateThroughArrays.csproj.AssemblyReference.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterateThroughArrays\IterateThroughArrays\obj\Debug\IterateThroughArrays.csproj.CoreCompileInputs.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterateThroughArrays\IterateThroughArrays\obj\Debug\IterateThroughArrays.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterateThroughArrays\IterateThroughArrays\obj\Debug\IterateThroughArrays.pdb

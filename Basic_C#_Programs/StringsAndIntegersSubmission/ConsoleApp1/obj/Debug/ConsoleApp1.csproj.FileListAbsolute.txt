@@ -1,0 +1,7 @@
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

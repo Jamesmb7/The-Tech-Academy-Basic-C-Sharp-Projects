@@ -21,9 +21,23 @@ namespace MethodSubmissionWithTwoIntegers
             if (int.TryParse(Console.ReadLine(), out b)) //
                 result = obj1.twoIntegers(b); //
 
-            
+
             Console.WriteLine(obj1.twoIntegers(a, b)); //takes variable a and b and uses the twoIntegers method.
             Console.ReadLine();
+
+
+            Console.WriteLine("Pick a number");
+            int c = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Pick a number --Optional");
+            try
+            {
+                int d = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine(obj1.twoIntegers2(c, d));
+            }
+            catch
+            {
+                Console.WriteLine(obj1.twoIntegers2(c));
+            }
         }
     }
 }

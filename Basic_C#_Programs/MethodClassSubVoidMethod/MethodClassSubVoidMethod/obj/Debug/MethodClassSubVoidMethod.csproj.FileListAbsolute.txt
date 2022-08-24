@@ -1,0 +1,2 @@
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClassSubVoidMethod\MethodClassSubVoidMethod\obj\Debug\MethodClassSubVoidMethod.csproj.AssemblyReference.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClassSubVoidMethod\MethodClassSubVoidMethod\obj\Debug\MethodClassSubVoidMethod.csproj.CoreCompileInputs.cache

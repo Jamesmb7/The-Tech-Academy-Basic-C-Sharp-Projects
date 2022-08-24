@@ -17,6 +17,7 @@ namespace MethodSubVoidandStatic
 
 
             int z = Methods.something(5, 6);
+            Console.WriteLine(z);
 
             Console.ReadLine();
         }

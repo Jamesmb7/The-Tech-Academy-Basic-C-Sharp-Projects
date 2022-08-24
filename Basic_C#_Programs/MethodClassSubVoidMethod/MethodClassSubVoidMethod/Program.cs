@@ -8,14 +8,15 @@ namespace MethodClassSubVoidMethod
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) //
         {
-            Methods obj1 = new Methods();
-            int a = 5;
-            int b = 10;
+            Methods obj1 = new Methods(); //instantiates the method creating an object
+            int a = 5; //gives a value to a
+            int b = 10; //gives a value to b
 
-            Console.WriteLine(obj1.twoIntegers(a, b));
-            Console.ReadLine();
+            obj1.twoIntegers(a, b); //calls the method and passes in 2 variables
+            obj1.twoIntegers(a: 5, b: 15); //calls the method and passes in 2 variables by name
+            Console.ReadLine(); //prevents the program from instantly closing after work is complete.
         }
     }
 }

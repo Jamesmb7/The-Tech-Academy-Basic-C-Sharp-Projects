@@ -10,6 +10,12 @@ namespace TwentyOneCardGameExample
     {
         static void Main(string[] args)
         {
+            //TwentyOneGame game = new TwentyOneGame();
+            //game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
+            //game.ListPlayers();
+            //game.Play();
+            //Console.ReadLine(); This commented out line of code was to display inheritence. TwentyOneGame inherited from Game all of it's aspects and is useable with this code. Game = broad, twentyone = specific. 
+
             Deck deck = new Deck();
             deck.Shuffle(3);
             //deck = Shuffle(deck: deck, times: 3); This is the same as above just a different way of coding it.

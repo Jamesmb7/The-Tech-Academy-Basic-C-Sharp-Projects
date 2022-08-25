@@ -10,12 +10,12 @@ namespace SuperClassMethodExamples
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee();
-            employee.FirstName = "Sample";
-            employee.LastName = "Student";
+            Employee employee = new Employee(); //creates the employee object instantiating from the Employee class
+            employee.FirstName = "Sample"; //Uses the inheritence of Person from the Employee Class to assign "Sample" to FirstName
+            employee.LastName = "Student"; //Uses the inheritence of Person from the Employee Class to assign "Student" to LastName
 
-            employee.SayName();
-            Console.ReadLine();
+            employee.SayName(); //Calls the method SayName() from the Person class which is inherited by the Employee class
+            Console.ReadLine(); //Prevents auto closing of console.
 
         }
     }

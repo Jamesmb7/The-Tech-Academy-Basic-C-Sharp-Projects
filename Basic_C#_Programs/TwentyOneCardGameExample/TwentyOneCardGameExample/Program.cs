@@ -15,6 +15,12 @@ namespace TwentyOneCardGameExample
             //game.ListPlayers();
             //game.Play();
             //Console.ReadLine(); This commented out line of code was to display inheritence. TwentyOneGame inherited from Game all of it's aspects and is useable with this code. Game = broad, twentyone = specific. 
+            
+            /*Game game = new TwentyOneGame(); //TwentyOneGame can morph into a higher-order object. Meaning 21game inherits from game, which is why this works.          
+            List<Game> games = new List<Game>();
+            TwentyOneGame game = new TwentyOneGame();
+            games.Add(game);*/ //This block of code is an example of Polymorphism. One class morphing into it's inheriting class. 
+
 
             Deck deck = new Deck();
             deck.Shuffle(3);

@@ -21,10 +21,10 @@ namespace TwentyOneCardGameExample
             TwentyOneGame game = new TwentyOneGame();
             games.Add(game);*/ //This block of code is an example of Polymorphism. One class morphing into it's inheriting class. 
 
-            TwentyOneGame game = new TwentyOneGame();
+            /*TwentyOneGame game = new TwentyOneGame();
             game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
             game.ListPlayers();
-            Console.ReadLine();
+            Console.ReadLine();*/
 
             Deck deck = new Deck();
             deck.Shuffle(3);

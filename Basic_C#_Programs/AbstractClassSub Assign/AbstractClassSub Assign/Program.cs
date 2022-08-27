@@ -11,6 +11,7 @@ namespace AbstractClassSub_Assign
         static void Main(string[] args)
         {
             Employee employee = new Employee(); //instantiates Employee class as employee    
+            IQuittable quittable = new Employee(); //instantiates IQuittable interface as quittable using the Employee class?
             employee.firstName = "Sample"; //gives the property firstName the data "Sample"
             employee.lastName = "Student"; //gives the property lastName the data "Student"
 

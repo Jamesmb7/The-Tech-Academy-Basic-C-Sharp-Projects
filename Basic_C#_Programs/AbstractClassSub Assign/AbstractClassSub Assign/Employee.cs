@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace AbstractClassSub_Assign
 {
-    public class Employee : Person //Inherits from Person Class
+    public class Employee : Person, IQuittable //Inherits from Person Class
     {
         public override void SayName() //Allows override of abstract class to call method SayName
         {
             Console.WriteLine(firstName + " " + lastName); //inputs data for testing
+        }
+        public void Quit(Person person) //calls the method Quit from the IQuittable Interface, also for note you use the method name here not the name of the actual Interface *took me way too long to notice that mistake haha*
+        {
+            throw new NotImplementedException(); //Needed for the employee class to agree with the inheritance of an Interface
         }
     }
 }

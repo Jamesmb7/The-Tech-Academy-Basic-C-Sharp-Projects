@@ -8,7 +8,7 @@ namespace TwentyOneCardGameExample
 {
     public abstract class Game
     {
-        public List<string> Players { get; set; }
+        public List<Player> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
@@ -16,9 +16,9 @@ namespace TwentyOneCardGameExample
         
         public virtual void ListPlayers() //virtual method inside of an abstract class means that this method gets inherited by an inhereted class but it has the ability to overwrite it. These can be overwritten.
         {
-            foreach (string player in Players)
+            foreach (Player player in Players)
             {
-                Console.WriteLine(player);
+                Console.WriteLine(player.Name);
             }
         }
     }

@@ -26,6 +26,14 @@ namespace TwentyOneCardGameExample
             game.ListPlayers();
             Console.ReadLine();*/
 
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Jesse";
+            game = game + player;
+            // game += player; This is the exact same as game = game + player;
+            game = game - player;
+
             Deck deck = new Deck();
             deck.Shuffle(3);
             //deck = Shuffle(deck: deck, times: 3); This is the same as above just a different way of coding it.

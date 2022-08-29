@@ -12,14 +12,14 @@ namespace OperatorsSubAssignment
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public static bool operator== (Employee id, Employee FirstName  )
+        public static bool operator == (Employee One, Employee Two  )
         {
-            
+            return One.Id == Two.Id; 
         }
 
-        public static bool operator != (Employee id, Employee FirstName )
+        public static bool operator != (Employee One, Employee Two )
         {
-
+            return One.Id != Two.Id;
         }
     }
 }

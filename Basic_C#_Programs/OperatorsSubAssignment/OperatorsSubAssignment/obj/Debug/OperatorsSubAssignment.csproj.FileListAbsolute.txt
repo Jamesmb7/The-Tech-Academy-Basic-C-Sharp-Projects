@@ -1,0 +1,7 @@
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorsSubAssignment\OperatorsSubAssignment\bin\Debug\OperatorsSubAssignment.exe.config
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorsSubAssignment\OperatorsSubAssignment\bin\Debug\OperatorsSubAssignment.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorsSubAssignment\OperatorsSubAssignment\bin\Debug\OperatorsSubAssignment.pdb
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorsSubAssignment\OperatorsSubAssignment\obj\Debug\OperatorsSubAssignment.csproj.AssemblyReference.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorsSubAssignment\OperatorsSubAssignment\obj\Debug\OperatorsSubAssignment.csproj.CoreCompileInputs.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorsSubAssignment\OperatorsSubAssignment\obj\Debug\OperatorsSubAssignment.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OperatorsSubAssignment\OperatorsSubAssignment\obj\Debug\OperatorsSubAssignment.pdb

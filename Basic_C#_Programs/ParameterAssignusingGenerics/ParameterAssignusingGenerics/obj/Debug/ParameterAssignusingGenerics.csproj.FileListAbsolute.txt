@@ -1,0 +1,7 @@
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParameterAssignusingGenerics\ParameterAssignusingGenerics\bin\Debug\ParameterAssignusingGenerics.exe.config
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParameterAssignusingGenerics\ParameterAssignusingGenerics\bin\Debug\ParameterAssignusingGenerics.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParameterAssignusingGenerics\ParameterAssignusingGenerics\bin\Debug\ParameterAssignusingGenerics.pdb
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParameterAssignusingGenerics\ParameterAssignusingGenerics\obj\Debug\ParameterAssignusingGenerics.csproj.AssemblyReference.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParameterAssignusingGenerics\ParameterAssignusingGenerics\obj\Debug\ParameterAssignusingGenerics.csproj.CoreCompileInputs.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParameterAssignusingGenerics\ParameterAssignusingGenerics\obj\Debug\ParameterAssignusingGenerics.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParameterAssignusingGenerics\ParameterAssignusingGenerics\obj\Debug\ParameterAssignusingGenerics.pdb

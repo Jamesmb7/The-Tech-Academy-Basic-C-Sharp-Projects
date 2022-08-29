@@ -33,6 +33,9 @@ namespace TwentyOneCardGameExample
             //game = game + player;
             //// game += player; This is the exact same as game = game + player;
             //game = game - player;
+            
+
+
             Deck deck = new Deck();
             deck.Shuffle(3);
             //deck = Shuffle(deck: deck, times: 3); This is the same as above just a different way of coding it.
@@ -46,8 +49,26 @@ namespace TwentyOneCardGameExample
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
-
-       
+        //*****ENUMS******
+        //DaysOfTheWeek day = DaysOfTheWeek.Monday;
+        //public enum DaysOfTheWeek
+        //{
+        //    Monday,
+        //    Tuesday,
+        //    Wednesday,
+        //    Thursday,
+        //    Friday,
+        //    Saturday,
+        //    Sunday
+        //}These are Enums and how they are created/called
+        //
+        /*ConsoleColor color = ConsoleColor.
+         * This shows how important emums are. After that "." behind ConsoleColor will display available options.
+         */
+        //Card card = new Card();
+        //card.Suit = Suit.Clubs; These are in the card section. 
+        //int underlyingValue = Convert.ToInt32(Suit.Diamonds); this would return a 1. Enums are assigned values in order starting at 0, but you can also assign custom values by doing =5 etc at the end of the enum name. 
+       //***END ENUM***
 
         //public static Deck Shuffle(Deck deck, int times)
         //{

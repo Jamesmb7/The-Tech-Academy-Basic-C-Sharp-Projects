@@ -8,6 +8,6 @@ namespace AbstractClassSub_Assign
 {
     interface IQuittable //IQuittable interface (not a class) these are always public no need to add. 
     {
-        void Quit(Person person); //method added into IQuittable
+        void Quit(); //method added into IQuittable
     }
 }

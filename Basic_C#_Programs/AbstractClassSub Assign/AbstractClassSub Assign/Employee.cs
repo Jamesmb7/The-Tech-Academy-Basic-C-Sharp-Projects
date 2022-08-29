@@ -12,9 +12,9 @@ namespace AbstractClassSub_Assign
         {
             Console.WriteLine(firstName + " " + lastName); //inputs data for testing
         }
-        public void Quit(Person person) //calls the method Quit from the IQuittable Interface, also for note you use the method name here not the name of the actual Interface *took me way too long to notice that mistake haha*
+        public void Quit() //calls the method Quit from the IQuittable Interface, also for note you use the method name here not the name of the actual Interface *took me way too long to notice that mistake haha*
         {
-            throw new NotImplementedException(); //Needed for the employee class to agree with the inheritance of an Interface
+            Console.WriteLine("Employee Quit"); //Needed for the employee class to agree with the inheritance of an Interface
         }
     }
 }

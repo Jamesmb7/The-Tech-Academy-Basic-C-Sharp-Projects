@@ -15,6 +15,7 @@ namespace AbstractClassSub_Assign
             employee.firstName = "Sample"; //gives the property firstName the data "Sample"
             employee.lastName = "Student"; //gives the property lastName the data "Student"
 
+            quittable.Quit();
             employee.SayName(); //runs the method sayName(); defined in the Employee class
             Console.ReadLine(); //allows you to see the data. 
         }

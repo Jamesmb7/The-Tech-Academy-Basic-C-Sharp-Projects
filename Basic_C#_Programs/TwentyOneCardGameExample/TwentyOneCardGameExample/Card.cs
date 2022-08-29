@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOneCardGameExample
 {
-    public class Card //public makes this class accessable to other parts of the program
+    public struct Card //public makes this class accessable to other parts of the program
     {       
         public Suit Suit { get; set; }//public makes this property accessable to other parts of the program
         public Face Face { get; set; }//public makes this property accessable to other parts of the program

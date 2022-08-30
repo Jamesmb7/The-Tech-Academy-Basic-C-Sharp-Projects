@@ -10,7 +10,6 @@ namespace TwentyOneCardGameExample
     {
         public List<Player> Players { get; set; }
         public string Name { get; set; }
-        public string Dealer { get; set; }
 
         public abstract void Play(); //All this abstract method does states that every class inheriting this class must implement this method.
         

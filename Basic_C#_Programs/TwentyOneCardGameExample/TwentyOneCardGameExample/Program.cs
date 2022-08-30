@@ -10,6 +10,61 @@ namespace TwentyOneCardGameExample
     {
         static void Main(string[] args)
         {
+
+            Deck deck = new Deck();
+            
+            
+            deck.Shuffle(3);
+             
+
+            foreach (Card card in deck.Cards)
+            {
+                Console.WriteLine(card.Face + " of " + card.Suit);
+            }
+            Console.WriteLine(deck.Cards.Count);
+            Console.ReadLine();
+
+            /*Lambda function example 1
+            int count = deck.Cards.Count(x => x.Face == Face.Ace); //This counts each element in the list "Cards", representing each element with "x" and it compares each element(x)'s Face value to see if it = Face.Ace.
+            //the x could be anything. The "=>" symbol is unique and basically says to map what's on the left with what's on the right. 
+            End of Lambda Function Example*/
+
+            /* Lambda function example 2 - this creates a list and prints the 4 cards eventually added to that list
+            List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+
+            foreach (Card card in newList)
+            {
+                Console.WriteLine(card.Face);
+            }
+            End of lambda example 2*/
+
+            /* Lambda function example 3
+            List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 23 };
+
+            int sum = numberList.Sum(x => x + 5); //This says "For each item(x) add 5 to each number(x). => could be read as "for each thing on the left, do what's on the right etc."
+            int sum = numberList.Max(); //This would find the maximum number (biggest number(535)) of the list
+            int sum = numberList.Min(); //This would find the minimum number (biggest number(535)) of the list
+            int sum = numberList.Where(x => x > 20).Sum(); //This would create a new list(using Where) that takes the 3 numbers over 20 together from the above list. (535, 342, 23). 
+            End of lambda function example 3*/
+
+            //deck = Shuffle(deck: deck, times: 3); This is the same as above just a different way of coding it.
+            //deck = Shuffle(deck, 3);
+            //deck = Shuffle(deck, 3);   This goes right under deck.Shuffle(3); these all do similar things.
+
+
+
+
+            /* Code below would select 1 card out of the deck and tell you how many of that card is left, there is a better way to do this with lambda expressions but this was a cool concept to see
+            int counter = 0;
+            foreach (Card card in deck.Cards)
+            {
+                if (card.Face == Face.Ace)
+                {
+                    counter++;
+                }
+            }
+            End of this block of code!*/
+
             //TwentyOneGame game = new TwentyOneGame();
             //game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
             //game.ListPlayers();
@@ -43,18 +98,7 @@ namespace TwentyOneCardGameExample
             //Console.WriteLine(card1.Face);
             //***End of Struct***
 
-            Deck deck = new Deck();
-            deck.Shuffle(3);
-            //deck = Shuffle(deck: deck, times: 3); This is the same as above just a different way of coding it.
-            //deck = Shuffle(deck, 3);
-            //deck = Shuffle(deck, 3);    
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-            Console.WriteLine(deck.Cards.Count);
-            Console.ReadLine();
         }
         //*****ENUMS******
         //DaysOfTheWeek day = DaysOfTheWeek.Monday;
@@ -75,7 +119,7 @@ namespace TwentyOneCardGameExample
         //Card card = new Card();
         //card.Suit = Suit.Clubs; These are in the card section. 
         //int underlyingValue = Convert.ToInt32(Suit.Diamonds); this would return a 1. Enums are assigned values in order starting at 0, but you can also assign custom values by doing =5 etc at the end of the enum name. 
-       //***END ENUM***
+        //***END ENUM***
 
         //public static Deck Shuffle(Deck deck, int times)
         //{

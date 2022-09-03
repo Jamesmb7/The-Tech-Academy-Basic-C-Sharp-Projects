@@ -25,7 +25,7 @@ namespace TwentyOneCardGameExample
             [Face.Ace] = 1
         };
 
-        public static int[] GetAllPossibleHandValues(List<Card> Hand)
+        private static int[] GetAllPossibleHandValues(List<Card> Hand)
         {
             int aceCount = Hand.Count(x => x.Face == Face.Ace);
             int[] result = new int[aceCount + 1];
@@ -35,11 +35,20 @@ namespace TwentyOneCardGameExample
             {
                 return result;
             }
+            for (int i = 1; i < result.Length; i++)
+            {
+                value += (i * 10);
+                result[i] = value;
+            }
+            return result;
         }
 
         public static bool CheckForBlackJack(List<Card> Hand)
         {
-
+            int[] possibleValues = GetAllPossibleHandValues(Hand);
+            int value = possibleValues.Max();
+            if (value == 21) return true;
+            else return false;
         }
     }
 }

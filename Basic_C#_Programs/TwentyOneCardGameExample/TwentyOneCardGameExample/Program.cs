@@ -35,7 +35,7 @@ namespace TwentyOneCardGameExample
                 game -= player;
                 Console.WriteLine("Thank you for playing!");
             }
-            Console.WriteLine("Fell free to look around the casino. Bye for now.");
+            Console.WriteLine("Feel free to look around the casino. Bye for now.");
             Console.Read();
 
             /*Code for logging, append code is in dealer class streamwriter.

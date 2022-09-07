@@ -20,6 +20,7 @@ namespace TwentyOneCardGameExample
             Console.WriteLine();
             using (StreamWriter file = new StreamWriter(@"E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\log.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
             Deck.Cards.RemoveAt(0);

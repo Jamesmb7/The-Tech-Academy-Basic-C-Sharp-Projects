@@ -1,0 +1,7 @@
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InputLogAssignment\InputLogAssignment\bin\Debug\InputLogAssignment.exe.config
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InputLogAssignment\InputLogAssignment\bin\Debug\InputLogAssignment.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InputLogAssignment\InputLogAssignment\bin\Debug\InputLogAssignment.pdb
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InputLogAssignment\InputLogAssignment\obj\Debug\InputLogAssignment.csproj.AssemblyReference.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InputLogAssignment\InputLogAssignment\obj\Debug\InputLogAssignment.csproj.CoreCompileInputs.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InputLogAssignment\InputLogAssignment\obj\Debug\InputLogAssignment.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InputLogAssignment\InputLogAssignment\obj\Debug\InputLogAssignment.pdb

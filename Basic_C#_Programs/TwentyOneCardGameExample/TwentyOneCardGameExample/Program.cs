@@ -11,10 +11,7 @@ namespace TwentyOneCardGameExample
     {
         static void Main(string[] args)
         {
-            /*string text = "Here is some text.";
-            File.WriteAllText(@"E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\log.txt", text);
-            */
-
+            
 
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
@@ -41,7 +38,19 @@ namespace TwentyOneCardGameExample
             Console.WriteLine("Fell free to look around the casino. Bye for now.");
             Console.Read();
 
-            
+            /*Code for logging, append code is in dealer class streamwriter.
+             * string text = "Here is some text.";
+            File.WriteAllText(@"E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\log.txt", text);
+            */
+
+            /* DateTime Code, also used in dealer class with above streamwriter appending logs.
+            DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
+            DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
+
+            TimeSpan ageAtGraduation = yearOfGraduation - yearOfBirth;
+            */
+
+
 
 
             /* ***Was the main method for most of the tutorial

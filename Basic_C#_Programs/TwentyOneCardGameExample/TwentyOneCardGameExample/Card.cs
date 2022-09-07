@@ -10,6 +10,12 @@ namespace TwentyOneCardGameExample
     {       
         public Suit Suit { get; set; }//public makes this property accessable to other parts of the program
         public Face Face { get; set; }//public makes this property accessable to other parts of the program
+        public override string ToString()
+        {
+            {
+                return string.Format("{0} of {1}", Face, Suit);
+            }
+        }
 
     }
     public enum Suit

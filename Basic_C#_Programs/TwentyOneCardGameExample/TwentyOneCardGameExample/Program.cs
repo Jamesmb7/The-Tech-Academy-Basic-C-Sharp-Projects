@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace TwentyOneCardGameExample
 {
@@ -10,6 +11,10 @@ namespace TwentyOneCardGameExample
     {
         static void Main(string[] args)
         {
+            /*string text = "Here is some text.";
+            File.WriteAllText(@"E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\log.txt", text);
+            */
+
 
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();

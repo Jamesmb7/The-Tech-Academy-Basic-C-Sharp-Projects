@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOneCardGameExample
+namespace Casino.Interfaces
 {
     interface IWalkAway //interface is always public no need to add it to interfaces.
     {

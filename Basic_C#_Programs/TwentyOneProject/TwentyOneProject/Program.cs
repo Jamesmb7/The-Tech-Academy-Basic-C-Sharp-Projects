@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Casino.TwentyOne;
 using Casino;
+using Casino.TwentyOne;
 
 namespace TwentyOne
 {
@@ -12,8 +12,6 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            
-
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
 
@@ -174,3 +172,4 @@ namespace TwentyOne
         //}
     }
 }
+

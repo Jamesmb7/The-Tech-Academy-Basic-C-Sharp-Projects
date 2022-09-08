@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4EAB8EDE-9BC8-439E-A76B-18B9A6F6BF6B}</ProjectGuid>
+    <ProjectGuid>{439740B7-3E66-4106-A711-B6B14D4D3703}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TwentyOneCardGameExample</RootNamespace>
-    <AssemblyName>TwentyOneCardGameExample</AssemblyName>
+    <RootNamespace>TwentyOneProject</RootNamespace>
+    <AssemblyName>TwentyOneProject</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Casino">
+      <HintPath>..\Casino\bin\Debug\Casino.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

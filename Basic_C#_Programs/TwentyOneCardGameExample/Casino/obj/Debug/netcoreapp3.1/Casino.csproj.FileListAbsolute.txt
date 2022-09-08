@@ -1,6 +1,7 @@
 E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\Casino\bin\Debug\netcoreapp3.1\Casino.deps.json
 E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\Casino\bin\Debug\netcoreapp3.1\Casino.dll
 E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\Casino\bin\Debug\netcoreapp3.1\Casino.pdb
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.AssemblyReference.cache
 E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\Casino\obj\Debug\netcoreapp3.1\Casino.GeneratedMSBuildEditorConfig.editorconfig
 E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
 E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs

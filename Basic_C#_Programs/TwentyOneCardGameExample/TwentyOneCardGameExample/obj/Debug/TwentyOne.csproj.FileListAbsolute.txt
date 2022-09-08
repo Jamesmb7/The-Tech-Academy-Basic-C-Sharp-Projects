@@ -1,9 +1,6 @@
 E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\TwentyOneCardGameExample\bin\Debug\TwentyOneCardGameExample.exe.config
 E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\TwentyOneCardGameExample\bin\Debug\TwentyOneCardGameExample.exe
 E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\TwentyOneCardGameExample\bin\Debug\TwentyOneCardGameExample.pdb
-E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\TwentyOneCardGameExample\bin\Debug\Casino.dll
-E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\TwentyOneCardGameExample\bin\Debug\Casino.pdb
-E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\TwentyOneCardGameExample\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
 E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\TwentyOneCardGameExample\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\TwentyOneCardGameExample\obj\Debug\TwentyOne.csproj.CopyComplete
 E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\TwentyOneCardGameExample\obj\Debug\TwentyOneCardGameExample.exe

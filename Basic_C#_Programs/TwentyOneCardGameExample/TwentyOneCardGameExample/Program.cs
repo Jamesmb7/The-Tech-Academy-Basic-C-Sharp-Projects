@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Casino;
-using Casino.TwentyOneCardGameExample;
+using Casino.TwentyOne;
 
-namespace TwentyOneCardGameExample
+namespace TwentyOne
 {
     class Program
     {

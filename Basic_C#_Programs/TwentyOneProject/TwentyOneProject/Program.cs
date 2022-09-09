@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,7 +13,12 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
+            const string casinoName = "Grand Hotel and Casino"; //allows you to set a const. to be used in later code. This will not change. If you need to reference something several times. 
+            //Player newPlayer = new Player("Jesse"); Reusing constructor in player.cs line 11.
+            //var newPLayer = new Player("Jesse");//Shows C# can actually find the data type itself if needed. Var makes code hard to read so be careful because it's hard to know the data type with it.
+
+
+            Console.WriteLine("Welcome to the {0}. Let's start by telling me your name.", casinoName); //Using the above constant as example. 
             string playerName = Console.ReadLine();
 
             Console.WriteLine("And how much money did you bring today?");
@@ -24,6 +30,11 @@ namespace TwentyOne
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGameExample\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;

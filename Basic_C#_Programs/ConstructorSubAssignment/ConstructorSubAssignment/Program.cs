@@ -10,8 +10,8 @@ namespace ConstructorSubAssignment
     {
         static void Main(string[] args)
         {
-            const string myName = "James";
-            var fastFood = "Sonic";
+            const string myName = "James"; //creating a constant
+            var fastFood = "Sonic"; //using var instead of string for a variable. 
 
             Employee employee1 = new Employee(); //instantiating the constructors
             Console.WriteLine(employee1.name + " " + employee1.id);

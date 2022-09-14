@@ -223,7 +223,9 @@ namespace TwentyOne
                                       Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=
                                       False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 
+            string queryString = @"Select Ind, ExceptionType, ExceptionMessage, TimeStamp From Exceptions";
 
+            List<>
         }
         //*****ENUMS******
         //DaysOfTheWeek day = DaysOfTheWeek.Monday;

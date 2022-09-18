@@ -30,6 +30,7 @@ namespace Casino.TwentyOne
                 int bet = 0;
                 while (!validAnswer)
                 {
+                    Console.WriteLine("Your current balance is " + player.Balance + "."); //Added this custom code, this was for convenience to remind you constantly of your balance every time you chose to continue playing.
                     Console.WriteLine("Place your bet!");
                     validAnswer = int.TryParse(Console.ReadLine(), out bet);
                     if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals");

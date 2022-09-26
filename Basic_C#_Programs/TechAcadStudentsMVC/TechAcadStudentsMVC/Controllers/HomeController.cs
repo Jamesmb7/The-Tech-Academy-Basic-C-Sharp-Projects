@@ -26,5 +26,10 @@ namespace TechAcadStudentsMVC.Controllers
 
             return View();
         }
+
+        public ActionResult Instructors()
+        {
+            return View();
+        }
     }
 }

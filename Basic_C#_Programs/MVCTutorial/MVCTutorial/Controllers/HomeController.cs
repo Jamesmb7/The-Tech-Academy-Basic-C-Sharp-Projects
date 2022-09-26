@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MVCTutorial.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -10,6 +11,14 @@ namespace MVCTutorial.Controllers
     {
         public ActionResult Index()
         {
+            User user = new User();
+            user.Id = 1;
+            user.FirstName = "Jesse";
+            user.LastName = "Johnson";
+            user.Age = 32;
+            return View(user);
+
+
             //string text = "Hello";
             //System.IO.File.WriteAllText(@"E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MVCTutorial\log.txt", text);
             //Random rnd = new Random(10);
@@ -20,7 +29,15 @@ namespace MVCTutorial.Controllers
             //{
             //    return View("About");
             //}
-            return View(); //This is the same as return View("Index")
+            //List<string> names = new List<string>
+            //{
+            //    "Jesse",
+            //    "Adam",
+            //    "Brett"
+            //};
+            //int num = 5;
+
+            //return View();//This is the same as return View("Index")
             //return Content("Hello"); //Will return a hello for contact tab.
             //return RedirectToAction("Contact"); //Sends you to Contact immediately, different from return view contact (return view doesn't change the url). 
         }

@@ -131,6 +131,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -242,7 +243,6 @@
     <Content Include="Scripts\popper-utils.min.js.map" />
     <Content Include="Scripts\popper-utils.js.map" />
     <Content Include="Views\Home\Success.cshtml" />
-    <Content Include="Views\Home\Admin.cshtml" />
     <EntityDeploy Include="SignUp.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>SignUp.Designer.cs</LastGenOutput>
@@ -250,6 +250,7 @@
     <Content Include="SignUp.edmx.diagram">
       <DependentUpon>SignUp.edmx</DependentUpon>
     </Content>
+    <Content Include="Views\Admin\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

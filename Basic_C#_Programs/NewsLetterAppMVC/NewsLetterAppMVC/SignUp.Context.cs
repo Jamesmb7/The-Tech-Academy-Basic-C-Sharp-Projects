@@ -13,10 +13,10 @@ namespace NewsLetterAppMVC
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class NewsletterEntities1 : DbContext
+    public partial class NewsletterEntities : DbContext
     {
-        public NewsletterEntities1()
-            : base("name=NewsletterEntities1")
+        public NewsletterEntities()
+            : base("name=NewsletterEntities")
         {
         }
     

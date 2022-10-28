@@ -77,3 +77,7 @@ E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewsLe
 E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewsLetterAppMVC\NewsLetterAppMVC\obj\Debug\NewsLetterAppMVC.csproj.CopyComplete
 E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewsLetterAppMVC\NewsLetterAppMVC\obj\Debug\NewsLetterAppMVC.dll
 E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewsLetterAppMVC\NewsLetterAppMVC\obj\Debug\NewsLetterAppMVC.pdb
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewsLetterAppMVC\NewsLetterAppMVC\bin\EntityFramework.dll
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewsLetterAppMVC\NewsLetterAppMVC\bin\EntityFramework.SqlServer.dll
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewsLetterAppMVC\NewsLetterAppMVC\bin\EntityFramework.xml
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NewsLetterAppMVC\NewsLetterAppMVC\bin\EntityFramework.SqlServer.xml

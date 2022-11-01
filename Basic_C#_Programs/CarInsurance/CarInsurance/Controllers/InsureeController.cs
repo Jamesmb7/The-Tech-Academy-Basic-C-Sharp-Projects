@@ -50,6 +50,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = CalculateQuote(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -57,6 +58,64 @@ namespace CarInsurance.Controllers
 
             return View(insuree);
         }
+
+        public decimal CalculateQuote(Insuree insuree) //pulls from Insuree DB. 
+        {
+            insuree.Quote = 50;
+            int Age = DateTime.Now.Year - insuree.DateOfBirth.Year; //Age Variable, will calculate the age for the program. 
+
+            if(Age <= 18)
+            {
+                insuree.Quote += 100;
+            }
+
+            if(Age >= 19 && Age <= 25)
+            {
+                insuree.Quote += 50;
+            }
+
+            if(Age >= 26)
+            {
+                insuree.Quote += 25;
+            }
+
+            if(insuree.CarYear < 2000)
+            {
+                insuree.Quote += 25;
+            }
+
+            if (insuree.CarYear >2015)
+            {
+                insuree.Quote += 25; 
+            }
+
+            if (insuree.CarMake.ToLower() == "porsche")
+            {
+                insuree.Quote += 25;
+                if(insuree.CarModel.ToLower() == "911 carrera")
+                {
+                    insuree.Quote += 25;
+                }
+            }
+
+            if (insuree.SpeedingTickets >= 1)
+            {
+                insuree.Quote += insuree.SpeedingTickets * 10;
+            }
+
+            if (insuree.DUI == true)
+            {
+                insuree.Quote += insuree.Quote *.25m;
+            }
+
+            if (insuree.CoverageType == true)
+            {
+                insuree.Quote *= .50m;      //works same as above, less steps
+            }
+            return insuree.Quote;
+        }
+
+        
 
         // GET: Insuree/Edit/5
         public ActionResult Edit(int? id)

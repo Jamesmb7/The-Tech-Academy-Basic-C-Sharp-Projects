@@ -6,6 +6,7 @@ This will contain files and projects from the C# and .NET Course
 **Projects**:
 - [Car Insurance Project](https://github.com/Jamesmb7/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/CarInsurance),
 - [21 Card Game](https://github.com/Jamesmb7/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/TwentyOneProject),
+- [Code-First Database Assignment](https://github.com/Jamesmb7/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/FinalChallengeAssignment),
 - [NewsLetterApp](https://github.com/Jamesmb7/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/NewsLetterAppMVC)
 
 **Car Insurance Website**: 

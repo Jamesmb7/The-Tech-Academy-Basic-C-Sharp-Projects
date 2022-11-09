@@ -1,0 +1,14 @@
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\helloworldCore\bin\Debug\netcoreapp3.1\helloworldCore.exe
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\helloworldCore\bin\Debug\netcoreapp3.1\helloworldCore.deps.json
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\helloworldCore\bin\Debug\netcoreapp3.1\helloworldCore.runtimeconfig.json
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\helloworldCore\bin\Debug\netcoreapp3.1\helloworldCore.runtimeconfig.dev.json
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\helloworldCore\bin\Debug\netcoreapp3.1\helloworldCore.dll
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\helloworldCore\bin\Debug\netcoreapp3.1\helloworldCore.pdb
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\helloworldCore\obj\Debug\netcoreapp3.1\helloworldCore.csproj.AssemblyReference.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\helloworldCore\obj\Debug\netcoreapp3.1\helloworldCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\helloworldCore\obj\Debug\netcoreapp3.1\helloworldCore.AssemblyInfoInputs.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\helloworldCore\obj\Debug\netcoreapp3.1\helloworldCore.AssemblyInfo.cs
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\helloworldCore\obj\Debug\netcoreapp3.1\helloworldCore.csproj.CoreCompileInputs.cache
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\helloworldCore\obj\Debug\netcoreapp3.1\helloworldCore.dll
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\helloworldCore\obj\Debug\netcoreapp3.1\helloworldCore.pdb
+E:\Tech_Academy\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\helloworldCore\obj\Debug\netcoreapp3.1\helloworldCore.genruntimeconfig.cache

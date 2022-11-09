@@ -4,9 +4,9 @@ This will contain files and projects from the C# and .NET Course
 
 
 **Projects**:
-- [Car Insurance Project]([Direct Link to Project](https://github.com/Jamesmb7/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/CarInsurance)),
-- [21 Card Game]([Direct Link to Project](https://github.com/Jamesmb7/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/TwentyOneProject)),
-- [NewsLetterApp]([Direct Link to Project](https://github.com/Jamesmb7/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/NewsLetterAppMVC))
+- [Car Insurance Project](https://github.com/Jamesmb7/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/CarInsurance),
+- [21 Card Game](https://github.com/Jamesmb7/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/TwentyOneProject),
+- [NewsLetterApp](https://github.com/Jamesmb7/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/NewsLetterAppMVC)
 
 **Car Insurance Website**: 
 
